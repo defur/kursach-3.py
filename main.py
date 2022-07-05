@@ -61,17 +61,3 @@ if __name__ == '__main__':
         else:
             print("Выберите один из предложенных пунктов меню")
 
-
-
-#
-#cas4 = ("Введите книгу, которую хотите найти:")
-#            print("Индекс первой буквы 'q':", lst.find("q"))
-
-#if not isinstance(book,str):
-#    raise TypeError('Название книжки должно быть буквами')
-
-#    def clear(self)->None:
-#        if len(self.__book):
-#            self.__book.clear()
-#        else:
-#            print('\nСтек книг пуст')
